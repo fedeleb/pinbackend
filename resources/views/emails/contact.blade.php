@@ -39,9 +39,7 @@
             margin-bottom: 0;
         }
         .header-image {
-            width: 100px; 
-            height: auto; 
-            margin: 0 auto; 
+            margin: 0 auto; /* Centra horizontalmente */
             display: block;
         }
     </style>
