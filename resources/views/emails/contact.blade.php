@@ -39,7 +39,7 @@
             margin-bottom: 0;
         }
         .header-image {
-            margin: 0 auto; /* Centra horizontalmente */
+            margin: auto; /* Centra horizontalmente */
             display: block;
         }
     </style>
